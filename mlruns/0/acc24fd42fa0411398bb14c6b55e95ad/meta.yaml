@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Videos/Data%20Project/Network%20Security/mlruns/0/acc24fd42fa0411398bb14c6b55e95ad/artifacts
+end_time: 1749380252724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acc24fd42fa0411398bb14c6b55e95ad
+run_name: bouncy-penguin-7
+run_uuid: acc24fd42fa0411398bb14c6b55e95ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749380242267
+status: 3
+tags: []
+user_id: user
